@@ -1,7 +1,7 @@
 <div align="center">
 <h2>COMPrompter: Rethink SAM in Camouflaged Object Detection with Multi-Prompt Network</h2>
 Xiaoqin Zhang, Zhenni Yu, Li Zhao, Deng-Ping Fan, Guobao Xiao
-SCIENCE CHINA Information Sciences (SCIS), 2024
+2024
 </div>
 
 ![ Comparison of our COMPrompter and other methods in COD](data/visualization.png)
