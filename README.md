@@ -82,6 +82,7 @@ python MSCAF_COD_evaluation/evaluation.py
 [//]: # (xxxx)
 
 [//]: # (```)
+```bibtex
 @article{zhang2024COMPrompter,
   title={COMPrompter: Rethink SAM in Camouflaged Object Detection with Multi-Prompt Network},
   author={Zhang, Xiaoqin and Yu, Zhenni and Zhao,  Li and Fan, Deng-Ping and Xiao, Guobao},
@@ -89,6 +90,9 @@ python MSCAF_COD_evaluation/evaluation.py
   volume={1},
   pages={1--14},
   year={2024}
+```
+
+
   </h2>
 
 }
