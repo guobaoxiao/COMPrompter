@@ -1,6 +1,6 @@
 <div align="center">
 <h2>COMPrompter: Rethink SAM in Camouflaged Object Detection with Multi-Prompt Network</h2>
-Xiaoqin Zhang, Zhenni Yu, Li Zhao, Deng-Ping Fan, Guobao Xiao
+Xiaoqin Zhang, Zhenni Yu, Li Zhao, Deng-Ping Fan, Guobao Xiao*
 2024
 </div>
 
